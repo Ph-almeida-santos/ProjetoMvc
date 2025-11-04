@@ -1,0 +1,27 @@
+﻿@model FormularioCliente
+
+@{
+    ViewData["Title"] = "Central";
+}
+
+<div class="text-center">
+    <img src="~/img/central.jpg" alt="Logo" style="max-width: 200px; width: 100%; height: auto; margin-bottom: 0px;" />
+        <h3>Número da sua solicitação é: <strong>@TempData["NumeroProtocolo"]</strong></h3>
+
+    @if (TempData["MensagemSucesso"] != null)
+    {
+        <div style="color: black; margin-top: 20px;">
+            <p style="font-size: 20px;">@TempData["MensagemSucesso"]</p>
+        </div>
+    }
+    @if (TempData["MensagemErro"] != null)
+    {
+        <div style="color: red; margin-top: 10px;">
+            @TempData["MensagemErro"]
+        </div>
+    }
+
+        <div class="">
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Voltar à página inicial</a>
+        </div>
+</div>
