@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\WebEmMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\views\\home\\enviar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\home\\enviar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\home\\enviar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|d:\\c#\\webemmvc\\webemmvc\\context\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\context\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,36 +46,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppConfig.cs",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Context\\AppConfig.cs",
-              "RelativeDocumentMoniker": "WebEmMVC\\Context\\AppConfig.cs",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Context\\AppConfig.cs",
-              "RelativeToolTip": "WebEmMVC\\Context\\AppConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:07:27.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormularioCliente.cs",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Models\\FormularioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\FormularioCliente.cs",
               "RelativeDocumentMoniker": "WebEmMVC\\Models\\FormularioCliente.cs",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Models\\FormularioCliente.cs*",
-              "RelativeToolTip": "WebEmMVC\\Models\\FormularioCliente.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\FormularioCliente.cs",
+              "RelativeToolTip": "WebEmMVC\\Models\\FormularioCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T23:06:13.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -83,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebEmMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebEmMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -95,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Enviar.cshtml",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Home\\Enviar.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Enviar.cshtml",
               "RelativeDocumentMoniker": "WebEmMVC\\Views\\Home\\Enviar.cshtml",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Views\\Home\\Enviar.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Enviar.cshtml",
               "RelativeToolTip": "WebEmMVC\\Views\\Home\\Enviar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -107,28 +95,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebEmMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebEmMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T02:54:01.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\C#\\WebEmMVC\\WebEmMVC\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebEmMVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\C#\\WebEmMVC\\WebEmMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "WebEmMVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T02:23:37.472Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebEmMVC\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebEmMVC\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:53:59.189Z",
+              "EditorCaption": ""
             }
           ]
         }

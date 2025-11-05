@@ -35,6 +35,10 @@ namespace WebEmMVC.Controllers
             {
                 using (var context = new AppDbContext())
                 {
+                    /*
+                    context.Database.EnsureDeleted();
+                    Console.WriteLine("Criando o banco de dados...\n");
+                    context.Database.EnsureCreated();*/
 
                     var novoFormulario = new FormularioCliente
                     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\WebEmMVC\\WebEmMVC\\WebEmMVC.csproj": {}
+    "C:\\Users\\phalm\\OneDrive\\Área de Trabalho\\ProjetoMvc\\WebEmMVC\\WebEmMVC.csproj": {}
   },
   "projects": {
-    "D:\\C#\\WebEmMVC\\WebEmMVC\\WebEmMVC.csproj": {
+    "C:\\Users\\phalm\\OneDrive\\Área de Trabalho\\ProjetoMvc\\WebEmMVC\\WebEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\WebEmMVC\\WebEmMVC\\WebEmMVC.csproj",
+        "projectUniqueName": "C:\\Users\\phalm\\OneDrive\\Área de Trabalho\\ProjetoMvc\\WebEmMVC\\WebEmMVC.csproj",
         "projectName": "WebEmMVC",
-        "projectPath": "D:\\C#\\WebEmMVC\\WebEmMVC\\WebEmMVC.csproj",
+        "projectPath": "C:\\Users\\phalm\\OneDrive\\Área de Trabalho\\ProjetoMvc\\WebEmMVC\\WebEmMVC.csproj",
         "packagesPath": "C:\\Users\\phalm\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\WebEmMVC\\WebEmMVC\\obj\\",
+        "outputPath": "C:\\Users\\phalm\\OneDrive\\Área de Trabalho\\ProjetoMvc\\WebEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
