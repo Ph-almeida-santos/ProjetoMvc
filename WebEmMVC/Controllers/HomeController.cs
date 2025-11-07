@@ -22,7 +22,6 @@ namespace WebEmMVC.Controllers
         [HttpPost]
         public IActionResult EnviarMensagem(FormularioCliente modelo)
         {
-            int idGerado;
             int categoriaId = modelo.Categoria == "Reclamação" ? 1 : 2;
 
             if (!ModelState.IsValid)
@@ -33,12 +32,13 @@ namespace WebEmMVC.Controllers
 
             try
             {
+                var totalFormularios = TotalFormularios();
                 using (var context = new AppDbContext())
                 {
-                    /*
+                    
                     context.Database.EnsureDeleted();
                     Console.WriteLine("Criando o banco de dados...\n");
-                    context.Database.EnsureCreated();*/
+                    context.Database.EnsureCreated();
 
                     var novoFormulario = new FormularioCliente
                     {
@@ -47,9 +47,9 @@ namespace WebEmMVC.Controllers
                         Email = modelo.Email.ToLower(),
                         Telefone = modelo.Telefone,
                         Categoria = categoriaId.ToString(),
-
                         Descricao = modelo.Descricao,
-                        DataCriacao = DateTime.Now
+                        DataCriacao = DateTime.Now,
+                        NumeroProtocolo = $"REQ{totalFormularios}"
                     };
 
                     context.Formularios.Add(novoFormulario);
@@ -67,7 +67,7 @@ namespace WebEmMVC.Controllers
                 }*/
 
                 TempData["MensagemSucesso"] = $"Sua contribuição é essencial para a nossa melhoria! Agradecemos por nos ajudar a evoluir.";
-                //TempData["NumeroProtocolo"] = $"REQ{idGerado}";
+                TempData["NumeroProtocolo"] = $"REQ{totalFormularios}";
                 return RedirectToAction("Enviar");
             }
             catch (Exception ex)
@@ -75,6 +75,16 @@ namespace WebEmMVC.Controllers
                 TempData["Erro"] = "Erro ao enviar: " + ex.Message;
                 return RedirectToAction("Enviar");
             }
+        }
+
+        private int TotalFormularios()
+        {
+            int totalFormularios;
+            using (var context = new AppDbContext())
+            {
+                totalFormularios = context.Formularios.Count();
+            }
+            return totalFormularios;
         }
 
         private string Capitalizar(string texto)

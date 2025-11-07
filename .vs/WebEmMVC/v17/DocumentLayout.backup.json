@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\home\\enviar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\home\\enviar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|solutionrelative:webemmvc\\models\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B383298-8CAD-4C17-89F2-D0692CD43599}|WebEmMVC\\WebEmMVC.csproj|c:\\users\\phalm\\onedrive\\\u00E1rea de trabalho\\projetomvc\\webemmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,44 +58,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebEmMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:27:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebEmMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:26:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebEmMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:26:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebEmMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebEmMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:25:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebEmMVC\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebEmMVC\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:12:21.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebEmMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "WebEmMVC\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:54:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:38:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormularioCliente.cs",
               "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\FormularioCliente.cs",
               "RelativeDocumentMoniker": "WebEmMVC\\Models\\FormularioCliente.cs",
               "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\FormularioCliente.cs",
               "RelativeToolTip": "WebEmMVC\\Models\\FormularioCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T23:06:13.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebEmMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:38:51.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebEmMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebEmMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T22:38:44.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Enviar.cshtml",
               "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Views\\Home\\Enviar.cshtml",
               "RelativeDocumentMoniker": "WebEmMVC\\Views\\Home\\Enviar.cshtml",
@@ -91,24 +170,12 @@
               "RelativeToolTip": "WebEmMVC\\Views\\Home\\Enviar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T21:46:09.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebEmMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebEmMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:54:01.907Z",
+              "WhenOpened": "2025-05-11T21:46:09.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebEmMVC\\Models\\ErrorViewModel.cs",
@@ -116,25 +183,7 @@
               "RelativeToolTip": "WebEmMVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T02:23:37.472Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebEmMVC\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\phalm\\OneDrive\\\u00C1rea de Trabalho\\ProjetoMvc\\WebEmMVC\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "WebEmMVC\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T23:53:59.189Z",
+              "WhenOpened": "2025-10-29T02:23:37.472Z",
               "EditorCaption": ""
             }
           ]

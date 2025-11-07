@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebEmMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609c86fd1b714fc48e0cec4ba08e2ad19fb4eca6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d3c5f2fce6ad401aa5930b202c680df425cf5e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebEmMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebEmMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

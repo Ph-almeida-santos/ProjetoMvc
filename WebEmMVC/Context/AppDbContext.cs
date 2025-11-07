@@ -16,30 +16,43 @@ namespace WebEmMVC.Context
         {
             modelBuilder.Entity<FormularioCliente>()
                 .Property(n => n.Nome)
-                .HasColumnType("nvarchar(100)");
+                .HasColumnType("nvarchar(100)")
+                .IsRequired();
 
             modelBuilder.Entity<FormularioCliente>()
                 .Property(e => e.Empresa)
-                .HasColumnType("nvarchar(100)");
+                .HasColumnType("nvarchar(100)")
+                .IsRequired();
+
 
             modelBuilder.Entity<FormularioCliente>()
                 .Property(c => c.Email)
-                .HasColumnType("nvarchar(100)");
+                .HasColumnType("nvarchar(100)")
+                .IsRequired();
 
             modelBuilder.Entity<FormularioCliente>()
                 .Property(c => c.Telefone)
-                .HasColumnType("nvarchar(15)");
+                .HasColumnType("nvarchar(15)")
+                .IsRequired();
 
             modelBuilder.Entity<FormularioCliente>()
                 .Property(c => c.Categoria)
-                .HasColumnType("nvarchar(1)");
+                .HasColumnType("nvarchar(1)")
+                .IsRequired();
+
             modelBuilder.Entity<FormularioCliente>()
                 .Property(d => d.Descricao)
-                .HasColumnType("TEXT");
+                .HasColumnType("TEXT")
+                .IsRequired();
 
             modelBuilder.Entity<FormularioCliente>()
                 .Property(c => c.DataCriacao)
-                .HasColumnType("date");
+                .HasColumnType("datetime")
+                .IsRequired();
+
+            modelBuilder.Entity<FormularioCliente>()
+                .Property(c => c.NumeroProtocolo)
+                .IsRequired();
         }
     }
 }

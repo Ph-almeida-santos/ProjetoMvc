@@ -27,5 +27,7 @@ namespace WebEmMVC.Models
         public string Descricao { get; set; } = string.Empty;
 
         public DateTime DataCriacao { get; set; }
+
+        public string NumeroProtocolo { get; set; } = string.Empty;
     }
 }
